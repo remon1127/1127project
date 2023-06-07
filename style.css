@@ -1,20 +1,62 @@
 body {
     background-color: cornsilk;
-}
+    margin: 1%;
+    }
 
 h1 {
     background-color: yellowgreen;
     border-radius: 10px;
     text-align: center;
+    padding: 10px 10px 10px 10px;
 }
 
-ul {
-    font-size: 30px;
-    color: coral;
+h2 {
+    font-size: 80px;
+    text-decoration: underline 7.5px orange;
+    margin: 50px;
+    line-height: 150px;
+}
+
+.link li {
+    font-size: 50px;
+    float: left;
+    margin: 10px;
+    list-style: none;
+}
+
+.member li {
+    font-size: 40px;
+    margin-left: 10px;
+    padding: 10px;
+    list-style: none;
+}
+
+.border {
+    font-size: 50px;
+    font-weight: 600;
+    color: gray;
+    border: 7px solid silver;
+    border-radius: 5%;
+}
+
+.name {
+    font-size: 50px;
+    font-weight: 400;
+    margin-left: 3%;
+}
+
+.member li p {
+    font-size: 50px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    border: 2px solid orange;
 }
 
 img {
     width: 1000px;
     height: 500px;
-    border-radius: 500px;
+    border-radius: 20px;
 }
