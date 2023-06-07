@@ -56,3 +56,52 @@ img {
     height: 500px;
     border-radius: 20px;
 }
+
+@media screen and (max-width:480px) {
+    body {
+        font-size: 10px;
+        margin: 0%;
+    }
+
+    a {
+        text-decoration: none;
+        border: 2px solid orange;
+        font-size: 17px
+    }
+
+    h2 {
+        font-size: 35px;
+    }
+
+    img {
+        width: 130px;
+        height: 300px;
+    }
+
+        
+    .link li {
+        font-size: 20px;
+        float: left;
+        margin: 10px;
+        list-style: none;
+    }
+
+    .member li {
+        font-size: 20px;
+        list-style: none;
+    }
+    
+    .border {
+        font-size: 30px;
+        font-weight: 600;
+        color: gray;
+        border: 7px solid silver;
+        border-radius: 5%;
+    }
+    
+    .name {
+        font-size: 25px;
+        font-weight: 400;
+        margin-left: 3%;
+    }
+}
