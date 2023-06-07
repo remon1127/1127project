@@ -57,7 +57,7 @@ img {
     border-radius: 20px;
 }
 
-@media screen and (max-width:440px) {
+@media screen and (max-width:400px) {
     body {
         font-size: 10px;
         margin: 0%;
@@ -74,7 +74,7 @@ img {
     }
 
     img {
-        width: 130px;
+        width: 150px;
         height: 300px;
     }
 
