@@ -11,9 +11,9 @@ h1 {
 }
 
 h2 {
-    font-size: 80px;
+    font-size: 50px;
     text-decoration: underline 7.5px orange;
-    margin: 50px;
+    margin: 20px;
     line-height: 150px;
 }
 
@@ -25,14 +25,14 @@ h2 {
 }
 
 .member li {
-    font-size: 40px;
+    font-size: 30px;
     margin-left: 10px;
     padding: 10px;
     list-style: none;
 }
 
 .border {
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 600;
     color: gray;
     border: 7px solid silver;
@@ -40,23 +40,19 @@ h2 {
 }
 
 .name {
-    font-size: 50px;
+    font-size: 35px;
     font-weight: 400;
     margin-left: 3%;
-}
-
-.member li p {
-    font-size: 50px;
-    text-align: center;
 }
 
 a {
     text-decoration: none;
     border: 2px solid orange;
+    font-size: 30px
 }
 
 img {
-    width: 1000px;
+    width: 650px;
     height: 500px;
     border-radius: 20px;
 }
