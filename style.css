@@ -8,6 +8,8 @@ h1 {
     border-radius: 10px;
     text-align: center;
     padding: 10px 10px 10px 10px;
+    background-image: url("https://cdn.discordapp.com/attachments/700891422726815884/924288353044693012/20211213_200106.gif");
+    background-size: 1%;
 }
 
 h2 {
@@ -43,6 +45,11 @@ h2 {
     font-size: 35px;
     font-weight: 400;
     margin-left: 3%;
+}
+
+li {
+    background-image: url("https://media.discordapp.net/attachments/877808661051891804/1020244066547548160/20220916_170316_1.gif");
+    background-size: cover;
 }
 
 a {
