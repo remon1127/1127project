@@ -9,7 +9,7 @@ h1 {
     text-align: center;
     padding: 10px 10px 10px 10px;
     background-image: url("https://cdn.discordapp.com/attachments/700891422726815884/924288353044693012/20211213_200106.gif");
-    background-size: 1%;
+    background-size: 10%;
 }
 
 h2 {
@@ -39,6 +39,8 @@ h2 {
     color: gray;
     border: 7px solid silver;
     border-radius: 5%;
+    background-image: url("https://cdn.discordapp.com/attachments/867339086084046849/1116029943634214964/20230608_004003.gif");
+    background-size: cover;
 }
 
 .name {
@@ -49,7 +51,7 @@ h2 {
 
 li {
     background-image: url("https://media.discordapp.net/attachments/877808661051891804/1020244066547548160/20220916_170316_1.gif");
-    background-size: cover;
+    background-size: 10px;
 }
 
 a {
