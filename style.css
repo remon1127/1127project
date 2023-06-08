@@ -45,6 +45,13 @@ h2 {
     margin-left: 3%;
 }
 
+.great {
+    color: red;
+    font-size: 50px;
+    background-color: black;
+    font-weight: 1000;
+}
+
 a {
     text-decoration: none;
     border: 2px solid orange;
